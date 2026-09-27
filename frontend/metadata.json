@@ -1,0 +1,6 @@
+{
+  "name": "Jazbaat AI - Roman Urdu NLP Intelligence",
+  "description": "High-precision natural language understanding tailored specifically for Roman Urdu customer feedback, sentiment analysis, dialect mapping, and token telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
